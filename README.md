@@ -3,6 +3,9 @@
 
   ## Description :
     A command-line application for managing a company's employees using node, inquirer, and MySQL.
+    
+  ## Srceenshot/GIF :
+  ![Employee-Tracker](https://user-images.githubusercontent.com/71415480/105129236-409e7a00-5aaa-11eb-8ffb-ad7bfdbd6f18.gif)
 
   ## Table of Contents :
   - [Description](#description)
